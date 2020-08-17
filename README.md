@@ -14,8 +14,8 @@ Each individual directory represents a weekly study group. These can likely be d
 
 ### Lightning
 
-6. [How the Layers of Lightning Fit Together](/lightning-how-the-pieces-fit-together)
-7. [Payment Channels and HTLCs](/payment-channels-htlcs)
+6. [LN History, Payment Channels and HTLCs](/payment-channels-htlcs)
+7. [How the Layers of Lightning Fit Together](/lightning-how-the-pieces-fit-together)
 8. [Sphinx and Onion Routing](/sphinx-onion-routing)
 9. [Limitations](/lightning-limitations)
 10. [Channel Probing, Submarine Swaps/Loops, BOLTs 1.1](/bolts-1.1-channel-probing)

@@ -4,6 +4,8 @@
 
 | Content                                                                                       | Time  | Tags                    |
 |-----------------------------------------------------------------------------------------------|-------|-------------------------|
+[History of the Lightning Network](https://www.youtube.com/watch?v=HauP9F16mUM) | 51 min | video |
+[Lightning ≈ Bitcoin](https://www.youtube.com/watch?v=8lMLo-7yF5k) | 35 min | video |
 [Payment Channels](https://www.youtube.com/watch?v=4SdBa8ZOfqg) | 6 min | payment channels, primer, video |
 [Understanding Payment Channels](https://blog.chainside.net/understanding-payment-channels-4ab018be79d4) | 10 min | payment channels |
 [Revocable Transactions](https://rusty.ozlabs.org/?p=450) | 10 min | revocable transactions |
@@ -11,7 +13,7 @@
 [Bitcoin Timelocks Explained](https://medium.com/summa-technology/bitcoins-time-locks-27e0c362d7a1) | 16 min | timelocks |
 [Hashed Timelock Contracts](https://rusty.ozlabs.org/?p=462) | 5 min | HTLCs |
 [Visualizing HTLCs and the Lightning Network's Dirty Little Secret](https://medium.com/@peter_r/visualizing-htlcs-and-the-lightning-networks-dirty-little-secret-cb9b5773a0) | 10 min | HTLCs |
-[HTLC implementation in the Core wallet](https://github.com/bitcoin/bitcoin/pull/7601) | 20 min | HTLCs |
+[HTLC implementation in the Core wallet](https://github.com/bitcoin/bitcoin/pull/7601) | 20 min | HTLCs, _optional_ |
 
 ## Discussion Questions
 
